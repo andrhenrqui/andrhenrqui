@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="![André-Henrique-DoWhile](https://user-images.githubusercontent.com/71542547/163659410-16e1da3f-1620-45bb-9f14-1846c5c41058.svg)"/>
+<img align="right" height="590em" src="https://gist.github.com/andrhenrqui/4eadc5ac8232b81c554f3401bfac2e5b"/>
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Henrique</h1>
