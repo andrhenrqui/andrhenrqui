@@ -19,5 +19,5 @@
 
   <h2>  I’m currently learning Flutter, JavaScript, HTML, CSS, SQL, Node.JS...</h2>
 
-  
+   ![Snake animation](https://github.com/andrhenrqui/andrhenrqui/blob/output/github-contribution-grid-snake.svg)
   
