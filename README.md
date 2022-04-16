@@ -1,5 +1,7 @@
 
-<img align="right" height="590em" src="https://gist.github.com/andrhenrqui/4eadc5ac8232b81c554f3401bfac2e5b"/>
+<img src="![personal badge2](https://user-images.githubusercontent.com/71542547/163660114-28fbb448-a9ba-44a7-85db-a830ec5462c6.png)"/>
+
+
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm André Henrique</h1>
