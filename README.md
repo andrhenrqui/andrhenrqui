@@ -18,4 +18,4 @@
   
 </div>
 
-  <h2>  I’m currently learning Flutter, JavaScript, HTML, CSS, SQL, Node.JS...</h2>
+  <h2>  Constantly learning Flutter, JavaScript, HTML, CSS, SQL, Node.JS...</h2>
